@@ -1,0 +1,6 @@
+{
+  "name": "TLC Football Management",
+  "description": "All-in-one Touchline (TLC) Discord Bot and Football Community Management Platform for player/manager registrations, TLC IDs, club rosters, transfers, contracts, fixtures, results, standings, brackets, awards, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
